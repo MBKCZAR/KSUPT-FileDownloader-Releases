@@ -1,4 +1,7 @@
-# KSUPT-FileDownloader-Releases
-Releases of the program
+# KSUPT File Downloader
+Программа для автоматизации выгрузки отчётов из КСУПТ.
 
-"All rights reserved. Commercial use and distribution without purchasing a license is prohibited".
+## Стек технологий
+- Java 21
+- Playwright (Chromium)
+- Swing + LGoodDatePicker
